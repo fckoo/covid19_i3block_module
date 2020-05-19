@@ -9,8 +9,8 @@ COVID19 i3blocks Module
 ## Usage
 1. Copy the bash script to desired location e.g __/usr/lib/i3blocks/__
 ```
-git clone https://github.com/fckoo/covid19-i3blocks
-cd covid19-i3blocks
+git clone https://github.com/fckoo/covid19_i3block_module
+cd covid19_i3block_module
 cp ./covid19.sh /usr/lib/i3blocks/covid19
 ```
 
